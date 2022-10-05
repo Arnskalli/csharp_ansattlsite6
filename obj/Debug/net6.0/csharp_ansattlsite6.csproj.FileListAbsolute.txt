@@ -1,0 +1,15 @@
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\bin\Debug\net6.0\csharp_ansattlsite6.exe
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\bin\Debug\net6.0\csharp_ansattlsite6.deps.json
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\bin\Debug\net6.0\csharp_ansattlsite6.runtimeconfig.json
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\bin\Debug\net6.0\csharp_ansattlsite6.dll
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\bin\Debug\net6.0\csharp_ansattlsite6.pdb
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.csproj.AssemblyReference.cache
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.AssemblyInfoInputs.cache
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.AssemblyInfo.cs
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.csproj.CoreCompileInputs.cache
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.dll
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\refint\csharp_ansattlsite6.dll
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.pdb
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\csharp_ansattlsite6.genruntimeconfig.cache
+C:\Users\Arne J\Documents\GitHub\csharp_ansattlsite6\obj\Debug\net6.0\ref\csharp_ansattlsite6.dll
