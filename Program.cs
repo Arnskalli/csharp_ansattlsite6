@@ -4,7 +4,7 @@
     Console.Write("Etternavn: ");
     Console.WriteLine(navn[1]);
 }
-
+ // Hoveprogram
 void main() {
     // Definere en liste med liste over ansatte
     List<List<string>> ansattliste = new List<List<string>>();
